@@ -15,3 +15,4 @@
 
 ## <ins>Usage
 * Use command `whmenu` to open the menu
+  * Options: `add user, remove user, refresh whitelist`
