@@ -1,7 +1,7 @@
 ESX = nil
 TriggerEvent('esx:getSharedObject', function(obj) ESX = obj end)
 
-//TriggerEvent('chat:addSuggestion', '/whmenu', 'Export IP from players')
+TriggerEvent('chat:addSuggestion', '/whmenu', 'Export IP from players')
 
   function ShowNotification(text)
     SetNotificationTextEntry("STRING")
