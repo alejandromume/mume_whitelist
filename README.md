@@ -3,7 +3,8 @@
 
 ## <ins>Screenshots
 ![https://cdn.discordapp.com/attachments/836171209816145944/836344201742254100/unknown.png](https://cdn.discordapp.com/attachments/836171209816145944/836344201742254100/unknown.png)
-![https://cdn.discordapp.com/attachments/836171209816145944/836344316079112252/unknown.png](https://cdn.discordapp.com/attachments/836171209816145944/836344316079112252/unknown.png)
+![image](https://user-images.githubusercontent.com/43515908/117553672-cd197c00-b04a-11eb-9fcd-874525658d5e.png)
+
 
 ## <ins>Install
 1. Download `mume_whitelist`
