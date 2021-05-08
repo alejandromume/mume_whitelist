@@ -74,6 +74,7 @@ RegisterCommand("whmenu", function(source, args)
         else
             ShowNotification("~r~No Permissions")
         end
+     end)
 end)
 
 RegisterCommand("whreload", function(source, args)
